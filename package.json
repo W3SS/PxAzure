@@ -1,0 +1,29 @@
+{
+  "name": "pxazure",
+  "version": "1.0.0",
+  "description": "Collection of Node.js helpers for Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkpixellab/PxAzure.git"
+  },
+  "keywords": [
+    "azure",
+    "nodejs"
+  ],
+  "author": "Joel Fillmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinkpixellab/PxAzure/issues"
+  },
+  "homepage": "https://github.com/thinkpixellab/PxAzure#readme",
+  "dependencies": {
+    "azure-storage": "^1.1.0",
+    "bluebird": "^3.4.1",
+    "lodash": "^4.14.0",
+    "mkdirp": "^0.5.1"
+  }
+}
